@@ -7,7 +7,7 @@
 
 /* Estilo para el encabezado */
 header {
-  background-color: #333; /* Color de fondo oscuro */
+  background-color: #353335; /* Color de fondo oscuro */
   color: #fff; /* Color de texto blanco */
   padding: 20px;
   text-align: center;
@@ -16,6 +16,7 @@ header {
 /* Estilo para el título principal */
 h1 {
   font-size: 36px; /* Tamaño de fuente grande */
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 /* Estilo para el contenido principal */
